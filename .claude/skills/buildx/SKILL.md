@@ -1,6 +1,6 @@
 ---
 name: buildx
-description: Use quando o usuário descrever um sistema ou projeto INTEIRO que quer construir do zero — "quero um sistema para X", "preciso de uma plataforma que faça Y", "monta um app de Z com A, B e C" — e quiser que a suíte Expx conduza tudo sozinha até o sistema estar pronto, testado e validado. Recebe uma descrição em linguagem natural, mapeia o escopo completo (inclusive o que não foi dito: autenticação, autorização, LGPD, auditoria, backup, observabilidade), decide a stack, quebra o projeto em features, e conduz prodx → stackx → sprintx → mergex feature a feature, recursivamente, até o fim. Use mesmo sem a palavra buildx. NÃO use para uma feature isolada num sistema que já existe (isso é sprintx) nem para defeito (isso é runx).
+description: "Use quando o usuário descrever um sistema ou projeto INTEIRO que quer construir do zero — \"quero um sistema para X\", \"preciso de uma plataforma que faça Y\", \"monta um app de Z com A, B e C\" — e quiser que a suíte Expx conduza tudo sozinha até o sistema estar pronto, testado e validado. Recebe uma descrição em linguagem natural, mapeia o escopo completo (inclusive o que não foi dito: autenticação, autorização, LGPD, auditoria, backup, observabilidade), decide a stack, quebra o projeto em features, e conduz prodx → stackx → sprintx → mergex feature a feature, recursivamente, até o fim. Use mesmo sem a palavra buildx. NÃO use para uma feature isolada num sistema que já existe (isso é sprintx) nem para defeito (isso é runx)."
 ---
 
 # build^x
